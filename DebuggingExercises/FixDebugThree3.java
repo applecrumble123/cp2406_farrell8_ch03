@@ -4,7 +4,6 @@ public class FixDebugThree3
 {
    public static void main(String args[])
    {
-      getName();
       displayGreeting();
    }
    private static String getName()

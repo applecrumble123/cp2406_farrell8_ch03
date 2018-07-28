@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 
-// This program calculates tutition bills as credits times rate per credit hour
+// This program calculates tuition bills as credits times rate per credit hour
 public class FixDebugThree4
 {
    public static void main(String args[])
